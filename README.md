@@ -44,13 +44,22 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+        Works as a Routing AND middleware framework;  Has minimal functionality of its own.
+
 - [ ] Describe Middleware?
+
+        A software that lies between a operating system & he applications runnon it.
+        Essentially works as a hidden translation layer.
 
 - [ ] Describe a Resource?
 
 - [ ] What can the API return to help clients know if a request was successful?
 
+        A 403 / 404 Error - This tells the client that the request was ok, but that it failed.
+
 - [ ] How can we partition our application into sub-applications?
+
+        By using Express and middleware.
 
 ## Minimum Viable Product
 
