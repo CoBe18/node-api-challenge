@@ -14,7 +14,7 @@ exports.seed = function(knex) {
     {
       project_id: 1,
       description: 'Design and Build API Endpoints',
-      notes: 'This is where the magic happens!',
+      notes: 'Making the magic happen!',
     },
   ]);
 };
